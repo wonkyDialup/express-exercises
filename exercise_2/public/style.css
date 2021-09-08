@@ -1,0 +1,14 @@
+img {
+    width: 200px;
+    height: 300px;
+}
+
+h1{
+    font-size: 30px;
+    color:darkblue;
+}
+
+.movies{
+    text-align: center;
+    background-color: aliceblue;
+}
